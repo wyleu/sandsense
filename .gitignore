@@ -10,4 +10,9 @@ bell_log_*.txt         # runtime log files
 .idea/
 
 # Optional – if you ever generate them
-*.mpy
+*.mpysettings.json
+src/settings.json
+settings-sandsense.json
+settings-obf.json
+settings.toml
+settings-obf.toml
