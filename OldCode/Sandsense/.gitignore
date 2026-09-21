@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.rrd
+*.log
+*$py.class
+.venv/
+Bellvirtenv/
+*.ip_addr

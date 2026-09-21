@@ -1,0 +1,13 @@
+# CircuitPython / MicroPython
+settings.json          # contains WiFi SSID, possibly other secrets
+*.pyc
+__pycache__/
+.DS_Store
+*.log
+bell_log_*.txt         # runtime log files
+.code-workspace
+.vscode/
+.idea/
+
+# Optional – if you ever generate them
+*.mpy

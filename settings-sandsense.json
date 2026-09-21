@@ -1,0 +1,51 @@
+{
+  "wifi": {
+    "ssid": "NOWRH81L",
+    "password": "w3JzkYiA9UNv"
+  },
+  "device": {
+    "name": "sandsense-tower",
+    "family": "sandsense",
+    "usb_manufacturer": "SandFarm",
+    "usb_product": "SandFarm sandsense-tower",
+    "usb_hid_keyboard": true,
+    "usb_drive": false
+    "location": "clockroom",
+    "role": "tower_3axis"
+  },
+  "startup": {
+    "program": "pico_circuitp_escapement_sense_async.py"
+  },
+  "escapement": {
+    "pll_enabled": false,
+    "ticks_per_minute": 48,
+    "adc_alpha": 0.002,
+    "hysteresis": 2500,
+    "adc_read_interval": 0.015,
+    "report_interval": 60.0,
+    "summary_interval": 900.0,
+    "laser_flash_interval": 0.625,
+    "laser_on_level": 80,
+    "tick_note": 76,
+    "tick_velocity": 70,
+    "tick_led_enabled": true,
+    "tick_led_red": "0x400000",
+    "tick_led_green": "0x004000",
+    "max_misses": 2,
+    "capture_window": 0.35
+  },
+  "output": {
+    "enabled_formats": ["console", "log", "midi"],
+    "console": { "enabled": true },
+    "log": {
+      "enabled": true,
+      "filename_prefix": "escapement_"
+    },
+    "midi": { "enabled": true }
+  },
+  "checkpoint": {
+    "enabled": true,
+    "file": "escapement_ckpt.txt",
+    "max_gap_s": 172800
+  }
+}

@@ -1,0 +1,33 @@
+Log started (monotonic 4246.8)
+4257.290 Bell 1 DETECTED (count 1) - single, overall: 103 ms vel=112
+4257.550 Bell 1 DETECTED (count 2) - single, overall: 103 ms vel=112
+4258.940 Bell 1 DETECTED (count 3) - single, overall: 103 ms vel=112
+4259.680 Bell 1 DETECTED (count 4) - single, overall: 103 ms vel=112
+4259.994 Bell 1 DETECTED (count 5) - single, overall: 103 ms vel=112
+4260.882 Bell 1 DETECTED (count 6) - single, overall: 103 ms vel=112
+4261.306 Bell 1 DETECTED (count 7) - single, overall: 103 ms vel=112
+4261.610 Bell 1 DETECTED (count 8) - single, overall: 147 ms vel=102
+4261.818 Bell 1 DETECTED (count 9) - single, overall: 103 ms vel=112
+4262.148 Bell 1 DETECTED (count 10) - overall: 213 ms vel=87
+4263.192 Bell 1 DETECTED (count 11) - single, overall: 103 ms vel=112
+4263.454 Bell 1 DETECTED (count 12) - single, overall: 103 ms vel=112
+4263.850 Bell 1 DETECTED (count 13) - overall: 170 ms vel=97
+4264.840 Bell 1 DETECTED (count 14) - single, overall: 103 ms vel=112
+Log started (monotonic 5589.5)
+5599.888 Bell 1 DETECTED (count 1) - single, overall: 103 ms vel=112
+5600.472 Bell 1 DETECTED (count 2) - overall: 233 ms vel=83
+5600.988 Bell 1 DETECTED (count 3) - single, overall: 103 ms vel=112
+5601.452 Bell 1 DETECTED (count 4) - single, overall: 103 ms vel=112
+5602.248 Bell 1 DETECTED (count 5) - single, overall: 103 ms vel=112
+5602.560 Bell 1 DETECTED (count 6) - single, overall: 102 ms vel=112
+5602.872 Bell 1 DETECTED (count 7) - single, overall: 103 ms vel=112
+Log started (monotonic 5743.4)
+5754.070 Bell 1 DETECTED (count 1) - overall: 323 ms vel=63
+5755.240 Bell 1 DETECTED (count 2) - single, overall: 103 ms vel=112
+5755.750 Bell 1 DETECTED (count 3) - single, overall: 103 ms vel=112
+5756.234 Bell 1 DETECTED (count 4) - single, overall: 103 ms vel=112
+5756.464 Bell 1 DETECTED (count 5) - single, overall: 103 ms vel=112
+5756.952 Bell 1 DETECTED (count 6) - overall: 343 ms vel=59
+5757.414 Bell 1 DETECTED (count 7) - single, overall: 103 ms vel=112
+5757.704 Bell 1 DETECTED (count 8) - overall: 162 ms vel=99
+Log started (monotonic 6096.8)
